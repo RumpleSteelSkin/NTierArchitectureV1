@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.UI", "NTierArchitecture.UI\NTierArchitecture.UI.csproj", "{906BE2AB-AAFC-44E6-999B-19AF45E40625}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.Business", "NTierArchitecture.Business\NTierArchitecture.Business.csproj", "{A05DEE5F-5D29-4414-ACF9-401971F0DD1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.DataAccess", "NTierArchitecture.DataAccess\NTierArchitecture.DataAccess.csproj", "{90EE6F7B-5C3A-4CF0-8694-4C21D7083B84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NTierArchitecture.Entities", "NTierArchitecture.Entities\NTierArchitecture.Entities.csproj", "{909254DD-1EED-49F1-BB31-5FCE56D19105}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0B9625F6-6F93-4FC6-94F1-87A7E5032281}"
+	ProjectSection(SolutionItems) = preProject
+		notes.txt = notes.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906BE2AB-AAFC-44E6-999B-19AF45E40625}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{906BE2AB-AAFC-44E6-999B-19AF45E40625}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{906BE2AB-AAFC-44E6-999B-19AF45E40625}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{906BE2AB-AAFC-44E6-999B-19AF45E40625}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05DEE5F-5D29-4414-ACF9-401971F0DD1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05DEE5F-5D29-4414-ACF9-401971F0DD1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05DEE5F-5D29-4414-ACF9-401971F0DD1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05DEE5F-5D29-4414-ACF9-401971F0DD1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90EE6F7B-5C3A-4CF0-8694-4C21D7083B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90EE6F7B-5C3A-4CF0-8694-4C21D7083B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90EE6F7B-5C3A-4CF0-8694-4C21D7083B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90EE6F7B-5C3A-4CF0-8694-4C21D7083B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{909254DD-1EED-49F1-BB31-5FCE56D19105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{909254DD-1EED-49F1-BB31-5FCE56D19105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{909254DD-1EED-49F1-BB31-5FCE56D19105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{909254DD-1EED-49F1-BB31-5FCE56D19105}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BC461CA-DF16-4851-B276-30E27ABA869D}
+	EndGlobalSection
+EndGlobal
